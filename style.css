@@ -1,0 +1,41 @@
+/* selector + propiedad + valor
+
+selector {
+propiedad: valor
+}
+
+*/
+p{
+    /* nombre de color, hexadecimal, rgb,rgba */
+    /* color: blue; */
+    /* color: #B2D6F9; */
+    /* color: rgb(0, 0, 255); */
+    /* color: rgba(13, 14, 13, 0.644); */
+    font-size: 30px;
+    /* unidades de medida | px em rem % */
+    margin: 20px;
+
+}
+
+h1{
+    color:#050505;
+    text-align: center;
+}
+
+body{
+    background-color: rgba(79, 79, 223, 0.685);
+}
+div{
+    color: green;
+}
+span{
+    color: red;
+}
+/* Especificidad */
+
+div span{
+    color: blue;
+}
+span{
+    color: red;
+}
