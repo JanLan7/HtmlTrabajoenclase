@@ -39,3 +39,10 @@ div span{
 span{
     color: red;
 }
+
+.titulos{color: yellow;
+    text-decoration: underline;
+}
+
+#Testimonios{text-align: center;
+            text-decoration: underline;}
