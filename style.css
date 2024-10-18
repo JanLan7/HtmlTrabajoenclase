@@ -4,6 +4,9 @@
 padding: 0;
 box-sizing: 0;}
 
+
+
+
 /* selector + propiedad + valor
 
 selector {
@@ -59,5 +62,8 @@ font-size: 24px;} /*absoluta*/
 
 .parrafo-servicio{color: grey;
 font-style: italic;
-font-size: 1.5em;} /*relativa*/
+font-size: 1.5em;
+font-weight: bold;
+font-family: "Nunito", sans-serif;
+} /*relativa*/
 
